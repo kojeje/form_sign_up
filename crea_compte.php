@@ -139,7 +139,7 @@
                     <p>
 <!-- Affichage du message-->
                         <?php echo $contenu; ?><br/><br/>
-                        <a href="upload_form.php" title="Retour au formulaire" class="btn btn-success">Retour au formulaire</a>
+                        <a href="inscription_form.php" title="Retour au formulaire" class="btn btn-success">Retour au formulaire</a>
                     </p>
                 </div>
                 </body>
