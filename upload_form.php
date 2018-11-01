@@ -15,14 +15,14 @@
 <!--container bootstrap-->
 
 <div class="container">
-<!--    Titre-->
-        <h1>Formulaire avec upload de fichier </h1>
+<!--    TITRE PAGE-->
+        <h1>Créez votre compte</h1>
 
 <!-- *********************************************  FORMULAIRE  *************************************************   -->
 
 
-<!--    -->
-        <form action="upload.php" method="post" enctype="multipart/form-data" class="form-horizontal">
+<!--    Titre-->
+        <form action="crea_compte.php" method="post" enctype="multipart/form-data" class="form-horizontal">
 
 <!--   *******************************  -->
 
